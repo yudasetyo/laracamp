@@ -12,5 +12,5 @@ class CampBenefit extends Model
 
     /* Mendaftarkan atribut (nama kolom) 
     untuk menambah record baru di database */
-    protected $fillable = ['name'];
+    protected $fillable = ['camp_id', 'name'];
 }

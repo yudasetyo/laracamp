@@ -3,11 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
 use Laravel\Socialite\Facades\Socialite;
-<<<<<<< HEAD
 use App\Http\Controllers\User\CheckoutController;
 use App\Http\Controllers\HomeController;
-=======
->>>>>>> b739979e9789d4a54ccddc4a0c5b17db8e334a51
 
 /*
 |--------------------------------------------------------------------------
